@@ -1,5 +1,7 @@
 # my_webiste
 
-website created using Flutter Web.
+Website created using Flutter Web.
 
 ## Screenshot
+
+<img src="screenshot/my_website.png" width="800" height="500" >
