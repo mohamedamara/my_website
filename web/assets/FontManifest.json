@@ -1,0 +1,42 @@
+[
+    {
+        "family": "MaterialIcons",
+        "fonts": [
+            {
+                "asset": "https://fonts.gstatic.com/s/materialicons/v42/flUhRq6tzZclQEJ-Vdg-IuiaDsNcIhQ8tQ.woff2"
+            }
+        ]
+    },
+    {
+        "family": "SairaExtraCondensed-Medium",
+        "fonts": [
+            {
+                "asset": "fonts/SairaExtraCondensed-Medium.ttf"
+            }
+        ]
+    },
+    {
+        "family": "SairaExtraCondensed-Bold",
+        "fonts": [
+            {
+                "asset": "fonts/SairaExtraCondensed-Bold.ttf"
+            }
+        ]
+    },
+    {
+        "family": "Muli-Regular",
+        "fonts": [
+            {
+                "asset": "fonts/Muli-Regular.ttf"
+            }
+        ]
+    },
+    {
+        "family": "Muli-ExtraBold",
+        "fonts": [
+            {
+                "asset": "fonts/Muli-ExtraBold.ttf"
+            }
+        ]
+    }
+]
