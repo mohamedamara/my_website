@@ -4,4 +4,4 @@ Website created using Flutter Web.
 
 ## Screenshot
 
-<img src="screenshot/my_website.png" width="800" height="500" >
+<img src="screenshot/my_website.PNG" width="800" height="500" >
