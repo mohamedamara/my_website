@@ -2,7 +2,7 @@
 
 Website created using Flutter Web.
 
-The UI used in this project from [BlackrockDigital](https://github.com/BlackrockDigital/startbootstrap-resume)
+UI copyright [BlackrockDigital](https://github.com/BlackrockDigital/startbootstrap-resume)
 
 ## Screenshot
 
